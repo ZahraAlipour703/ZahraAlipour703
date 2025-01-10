@@ -40,7 +40,14 @@ func GetBio() Bio {
   <a href="https://www.linkedin.com/in/zahraalipourr">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-  
+  <a href="z.alipour7034891@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Email_icon.svg" alt="Email Icon" height="30" width="30">
+  </a>
+  <a href="https://github.com/zahraalipour703.github.io">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Your GitHub Profile" height="30" width="30">
+</a>
+
+
   <a href="https://gitlab.com">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
   </a>
